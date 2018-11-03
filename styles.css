@@ -14,8 +14,9 @@
 }
 
 .letter{
+    font-family: 'Poiret One', cursive;
     will-change: left,top;
-    /*transform: translateZ(0);*/
+    transform: translateZ(0);
     position: fixed;
     z-index: 2;
     left:0;
